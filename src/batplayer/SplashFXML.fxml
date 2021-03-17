@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+
+<StackPane fx:id="rootPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="612.0" prefWidth="794.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="batplayer.SplashFXMLController">
+   <children>
+      <ImageView fitHeight="612.0" fitWidth="794.0" pickOnBounds="true" preserveRatio="true" StackPane.alignment="CENTER">
+         <image>
+            <Image url="@onstart.jpg" />
+         </image></ImageView>
+      <Pane minHeight="-Infinity" minWidth="-Infinity" opacity="0.0" prefHeight="612.0" prefWidth="794.0" style="-fx-background-color: #000000;" StackPane.alignment="CENTER" />
+   </children>
+</StackPane>
