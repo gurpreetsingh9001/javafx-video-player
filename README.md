@@ -1,4 +1,4 @@
-Download--https://drive.google.com/open?id=1b8n461jUNJY_U1lg__OGQOnmBJtqrmxI<br>
+Download--https://drive.google.com/file/d/15jJ8-8d1e4VesLXRrVZDz9-4edv77jW7/view?usp=sharing<br>
 Latest Java Version--https://java.com/en/download/win10.jsp
 
 # Video & Audio Player
